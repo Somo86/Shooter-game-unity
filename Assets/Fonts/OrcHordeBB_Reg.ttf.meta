@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: d3727f129a5934a10b1679b51ee9ef72
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Orc Horde BB
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 21d1f091d4c57471db0f964932b20b47, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
