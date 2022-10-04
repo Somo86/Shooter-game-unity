@@ -80,4 +80,4 @@ En relación a este controlador, encontramos otros encargados de la gestión de 
 * **DeadZoneController:** Detecta si el Goblin héroe ha caído de una de las rocas y finaliza el juego.
 ****
 ## Preview
-[Ver archivo en mp4](https://gitlab.com/Somo86/albertsomoza-pec3/-/blob/master/un_juego_de_artilleria.mp4)
+[![Demo](https://i9.ytimg.com/vi/DwGRMzfg9NQ/mq2.jpg?sqp=CJiQ8ZkG&rs=AOn4CLAQUMZpnaZQ_kYbgQM2VJlSbpDbdw)](https://youtu.be/DwGRMzfg9NQ)
